@@ -1,5 +1,5 @@
 # Post_factum_paper
-Data files and procedures for empirical analysis conducted in paper: "Post Factum clarity: Failures to Identify Spontaneous Threat (2019).  
+Data files and procedures for empirical analysis conducted in paper: "Post Factum clarity: Failures to Identify Spontaneous Threat." *Intellignece and National Security 34*, 4 (2019), 576-594.  
   
 The study focusing on the importance of information relevance to the decision-making process and the formation of strategic threat assessment.  
   
